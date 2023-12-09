@@ -2,7 +2,7 @@
 
 This is a repository for private learning.
 
-<br><br>
+<br>
 
 ## Table of Contents
 
