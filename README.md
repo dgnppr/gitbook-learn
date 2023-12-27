@@ -25,7 +25,7 @@ This is a repository for private learning.
 ### Java
 
 - #### Java 101
-  - [Collections](./java/java%20101/00_Collections.md)
+  - [Collections](./java/java%20101/00_collections.md)
 
 <br>
 
