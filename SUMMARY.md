@@ -13,6 +13,8 @@
 
 ### Network
 
+<br>
+
 ### Database
 
 - #### Database 101
@@ -29,17 +31,21 @@
 
 - #### Java 101
   - [Collections](./java/java%20101/00_collections.md)
-  - [Lock](./java/java%20101/00_collections.md)
+  - [Lock](./java/java%20101/01_lock.md)
 
 <br>
 
 ### Spring
+
+<br>
 
 ### Docker
 
 - [Docker 101](./docker/00_docker%20101.md)
 - [Docker command](./docker/01_docker%20command.md)
 - [Dockerfile](./docker/02_dockerfile.md)
+
+<br>
 
 ### Redis
 
