@@ -6,7 +6,14 @@ This is a repository for private learning.
 
 ## Table of Contents
 
+<br>
+
 ### OS
+
+- #### Operating System 101
+  - [프로세스 동기화](./os/os%20101/00_process_synchronization.md)
+
+<br>
 
 ### Network
 
@@ -26,6 +33,7 @@ This is a repository for private learning.
 
 - #### Java 101
   - [Collections](./java/java%20101/00_collections.md)
+  - [Lock](./java/java%20101/00_collections.md)
 
 <br>
 

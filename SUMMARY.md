@@ -4,7 +4,12 @@
 
 ## Table of Contents
 
-### OS
+### Operating System
+
+- #### Operating System 101
+  - [프로세스 동기화](./os/os%20101/00_process_synchronization.md)
+
+<br>
 
 ### Network
 
@@ -24,6 +29,7 @@
 
 - #### Java 101
   - [Collections](./java/java%20101/00_collections.md)
+  - [Lock](./java/java%20101/00_collections.md)
 
 <br>
 
