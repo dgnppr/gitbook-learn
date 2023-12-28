@@ -10,8 +10,8 @@ This is a repository for private learning.
 
 ### Operating System
 
-- #### Operating System 101
-  - [프로세스 동기화](./os/os101/00_process_synchronization.md)
+- #### Process
+  - [프로세스 동기화](os/process/00_process_synchronization.md)
 
 <br>
 
