@@ -40,16 +40,6 @@ CSP(Critical Section Problem)을 해결하려면 위 세가지 조건을 모두 
 
 <br>
 
-### 상호배제 방법
-
-| 수준  | 방법                   | 종류                                      |
-|-----|----------------------|-----------------------------------------|
-| 고수준 | 소프트웨어로 해결            | 데커 알고리즘, 피터슨 알고리즘, 램포트 베이커리 알고리즘        |
-|     | 프로그래밍 언어나 OS 수준에서 제공 | 세마포어, 모니터, 뮤텍스                          |
-| 저수준 | 하드웨어로 해결             | TAS(Test And Set), CAS(Compare And Set) |
-
-<br>
-
 ### 소프트웨어 동기화 - 피터슨 알고리즘
 
 ```C
@@ -78,7 +68,7 @@ do {
 현대 컴퓨터는 워드 내용을 검사하고 변경하거나, 두 워드의 내용을 원자적으로 교환할 수 있는 원자적 연산을 제공한다.
 
 ```C
-boolean test_and_set(boolean *target){
+boolean test_and_set(boolean *target) {
 	boolean rv = *target;
     *target = true;
     return rv;
