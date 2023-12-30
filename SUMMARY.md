@@ -24,10 +24,10 @@
   - [인덱스](./database/database101/00_database_index.md)
 
 - #### MySQL
-  - [MySQL 엔진](./database/mysql/00_MySQL_engine.md)
-  - [InnoDB 엔진](./database/mysql/01_InnoDB_storage_engine.md)
+  - [MySQL 서버 엔진](./database/mysql/00_MySQL_engine.md)
+  - [InnoDB 스토리지 엔진](./database/mysql/01_InnoDB_storage_engine.md)
   - [MySQL 실행 계획](./database/mysql/02_execution_plan.md)
-  - [MySQL 인덱스](./database/mysql/03_InnoDB_index.md)
+  - [MySQL 인덱스](./database/mysql/03_MySQL_index.md)
 
 <br>
 
