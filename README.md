@@ -35,6 +35,13 @@ This is a repository for private learning.
 
 <br>
 
+### Data Structure
+
+- #### Tree
+  - [B-tree](./data-structure/tree/00_btree.md)
+
+<br>
+
 ### Java
 
 - #### Java 101
