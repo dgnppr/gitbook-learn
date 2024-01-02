@@ -9,6 +9,9 @@
 - #### Process
   - [프로세스 동기화](os/process/00_process_synchronization.md)
 
+- #### File System
+  - [파일 시스템](os/file-system/00_file-system.md)
+
 <br>
 
 ### Network
@@ -28,6 +31,7 @@
   - [InnoDB 스토리지 엔진](./database/mysql/01_InnoDB_storage_engine.md)
   - [MySQL 실행 계획](./database/mysql/02_execution_plan.md)
   - [MySQL 인덱스](./database/mysql/03_MySQL_index.md)
+  - [트랜잭션과 잠금](./database/mysql/04_MySQL_transaction.md)
 
 <br>
 
