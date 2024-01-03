@@ -10,7 +10,7 @@
   - [프로세스 동기화](os/process/00_process_synchronization.md)
 
 - #### File System
-  - [파일 시스템](os/file-system/00_file-system.md)
+  - [파일 시스템](os/file-system/00_file_system.md)
 
 <br>
 
